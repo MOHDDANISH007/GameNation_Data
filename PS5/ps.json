@@ -1,0 +1,452 @@
+[
+  {
+    "game_id": 1,
+    "game_name": "Spider-Man 2 (PS5 Edition)",
+    "price_inr": 4299,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/1c7f53e5e8e8f7b3b773e4b6b2b.jpg"
+  },
+  {
+    "game_id": 2,
+    "game_name": "Far Cry 6 (PS5 Edition)",
+    "price_inr": 1819,
+    "image_link": "https://m.media-amazon.com/images/I/81XzL2Z9G7L._SL1500_.jpg"
+  },
+  {
+    "game_id": 3,
+    "game_name": "Astro Bot (PS5 Edition)",
+    "price_inr": 3999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2010/6f5a7b3a8e4b7c3b9e2f4a1b2c3.jpg"
+  },
+  {
+    "game_id": 4,
+    "game_name": "Days Gone Remastered (PS5 Edition)",
+    "price_in arena": 3999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1010/7a8b9c0d1e2f3a4b5c6d7e8f9.jpg"
+  },
+  {
+    "game_id": 5,
+    "game_name": "Horizon Zero Dawn Remastered (PS5 Edition)",
+    "price_inr": 3999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1412/8b3c4d5e6f7b8c9a0b1c2d3e4f5.jpg"
+  },
+  {
+    "game_id": 6,
+    "game_name": "Until Dawn (PS5 Edition)",
+    "price_inr": 3999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202407/1010/9c8b7d6e5f4a3b2c1d0e9f8a7b6.jpg"
+  },
+  {
+    "game_id": 7,
+    "game_name": "Marvel’s Spider-Man: Miles Morales (PS5 Edition)",
+    "price_inr": 3999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/4a5b6c7d8e9f0a1b2c3d4e5f6a7.jpg"
+  },
+  {
+    "game_id": 8,
+    "game_name": "God of War: Ragnarok (PS5 Edition)",
+    "price_inr": 4999,
+    "image_link": "https://m.media-amazon.com/images/I/81XzL2Z9G7L._SL1500_.jpg"
+  },
+  {
+    "game_id": 9,
+    "game_name": "Hogwarts Legacy (PS5 Edition)",
+    "price_inr": 4799,
+    "image_link": "https://m.media-amazon.com/images/I/71X2B3C4D5E._SL1500_.jpg"
+  },
+  {
+    "game_id": 10,
+    "game_name": "Assassin’s Creed Shadows (PS5 Edition)",
+    "price_inr": 5999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202405/1510/2b3c4d5e6f7b8c9a0b1c2d3e4f5.jpg"
+  },
+  {
+    "game_id": 11,
+    "game_name": "Double Dragon Revive (PS5 Edition)",
+    "price_inr": 2249,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2010/1a2b3c4d5e6f7b8c9a0b1c2d3.jpg"
+  },
+  {
+    "game_id": 12,
+    "game_name": "Sonic X Shadow Generations (PS5 Edition)",
+    "price_inr": 3499,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1010/3c4d5e6f7b8c9a0b1c2d3e4f5.jpg"
+  },
+  {
+    "game_id": 13,
+    "game_name": "The Last of Us Part II Remastered (PS5 Edition)",
+    "price_inr": 3999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1010/5e6f7b8c9a0b1c2d3e4f5a6b7.jpg"
+  },
+  {
+    "game_id": 14,
+    "game_name": "Dragon’s Dogma 2 (PS5 Edition)",
+    "price_inr": 5999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0110/7b8c9a0b1c2d3e4f5a6b7c8d9.jpg"
+  },
+  {
+    "game_id": 15,
+    "game_name": "Demon’s Souls (PS5 Edition)",
+    "price_inr": 4999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1010/9a0b1c2d3e4f5a6b7c8d9e0f.jpg"
+  },
+  {
+    "game_id": 16,
+    "game_name": "Ghost of Yōtei (PS5 Edition)",
+    "price_inr": 5999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1010/ghostyotei_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 17,
+    "game_name": "Indiana Jones and the Great Circle (PS5 Edition)",
+    "price_inr": 4999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202412/1010/indianajones_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 18,
+    "game_name": "Clair Obscur: Expedition 33 (PS5 Edition)",
+    "price_inr": 3999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202404/1510/clairobscur_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 19,
+    "game_name": "Fatal Fury: City of the Wolves (PS5 Edition)",
+    "price_inr": 3499,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202404/2010/fatalfury_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 20,
+    "game_name": "Oblivion Remastered (PS5 Edition)",
+    "price_inr": 4499,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202404/1010/oblivion_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 21,
+    "game_name": "Doom: The Dark Ages (PS5 Edition)",
+    "price_inr": 4999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202405/1010/doomdarkages_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 22,
+    "game_name": "Elden Ring: Nightreign (PS5 Edition)",
+    "price_inr": 5999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202405/1510/eldenringnight_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 23,
+    "game_name": "Death Stranding 2: On the Beach (PS5 Edition)",
+    "price_inr": 5999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1010/deathstranding2_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 24,
+    "game_name": "Five Nights at Freddy’s: Secret of the Mimic (PS5 Edition)",
+    "price_inr": 2999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1310/fnafsecret_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 25,
+    "game_name": "The Midnight Walk (PS5 Edition)",
+    "price_inr": 3499,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202405/0810/midnightwalk_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 26,
+    "game_name": "Kingdom Come: Deliverance 2 (PS5 Edition)",
+    "price_inr": 4999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1010/kingdomcome2_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 27,
+    "game_name": "Forza Horizon 5 (PS5 Edition)",
+    "price_inr": 3999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202404/1710/forzahorizon5_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 28,
+    "game_name": "Call of Duty: Black Ops 6 (PS5 Edition)",
+    "price_inr": 5299,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1010/blackops6_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 29,
+    "game_name": "Metal Gear Solid Delta: Snake Eater (PS5 Edition)",
+    "price_inr": 5999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2810/mgsdelta_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 30,
+    "game_name": "The Outer Worlds 2 (PS5 Edition)",
+    "price_inr": 4999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1010/outerworlds2_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 31,
+    "game_name": "Grand Theft Auto VI (PS5 Edition)",
+    "price_inr": 6999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202412/1010/gta6_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 32,
+    "game_name": "Ghost Recon Over (PS5 Edition)",
+    "price_inr": 5999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1010/ghostreconover_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 33,
+    "game_name": "Hitman 4 (PS5 Edition)",
+    "price_inr": 4999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202506/1010/hitman4_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 34,
+    "game_name": "Watch Dogs: Legion Enhanced (PS5 Edition)",
+    "price_inr": 3999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1510/watchdogslegion_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 35,
+    "game_name": "Call of Duty: Black Ops 7 (PS5 Edition)",
+    "price_inr": 5499,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1010/blackops7_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 36,
+    "game_name": "Mafia: The Old Country (PS5 Edition)",
+    "price_inr": 5999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202412/2010/mafiaoldcountry_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 37,
+    "game_name": "Splinter Cell Remake (PS5 Edition)",
+    "price_inr": 4999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202503/1010/splintercell_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 38,
+    "game_name": "Rainbow Six: Siege Enhanced (PS5 Edition)",
+    "price_inr": 3499,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1010/rainbowsix_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 39,
+    "game_name": "Far Cry 7 (PS5 Edition)",
+    "price_inr": 5999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202506/1510/farcry7_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 40,
+    "game_name": "Just Cause 5 (PS5 Edition)",
+    "price_inr": 4999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202505/1010/justcause5_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 41,
+    "game_name": "Sniper Elite 5 (PS5 Edition)",
+    "price_inr": 3999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202411/1010/sniperelite5_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 42,
+    "game_name": "Payday 3 Enhanced (PS5 Edition)",
+    "price_inr": 4499,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202410/2010/payday3_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 43,
+    "game_name": "The Division 3 (PS5 Edition)",
+    "price_inr": 5999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202506/2010/division3_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 44,
+    "game_name": "Cyberpunk 2077: Phantom Liberty Enhanced (PS5 Edition)",
+    "price_inr": 3999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1010/cyberpunkphantom_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 45,
+    "game_name": "Assassin’s Creed Mirage Enhanced (PS5 Edition)",
+    "price_inr": 3999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1510/acmirage_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 46,
+    "game_name": "Forza Horizon 5 (PS5 Edition)",
+    "price_inr": 3999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202404/1710/forzahorizon5_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 47,
+    "game_name": "Sonic Racing: CrossWorlds (PS5 Edition)",
+    "price_inr": 3499,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202412/1010/soniccrossworlds_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 48,
+    "game_name": "Assetto Corsa Evo (PS5 Edition)",
+    "price_inr": 4999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1610/assettocorsa_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 49,
+    "game_name": "EA Sports F1 25 (PS5 Edition)",
+    "price_inr": 4999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202505/1010/f125_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 50,
+    "game_name": "Project Motor Racing (PS5 Edition)",
+    "price_inr": 4499,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1010/projectmotor_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 51,
+    "game_name": "Endurance Motorsport Series (PS5 Edition)",
+    "price_inr": 3999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1510/endurancemotor_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 52,
+    "game_name": "Monster Energy Supercross 25 (PS5 Edition)",
+    "price_inr": 3999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1010/supercross25_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 53,
+    "game_name": "Rennsport (PS5 Edition)",
+    "price_inr": 2999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202503/0710/rennsport_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 54,
+    "game_name": "NASCAR 25 (PS5 Edition)",
+    "price_inr": 4499,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202504/1010/nascar25_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 55,
+    "game_name": "Fatal Run 2089 (PS5 Edition)",
+    "price_inr": 2999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1010/fatalrun2089_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 56,
+    "game_name": "Apex Rush (PS5 Edition)",
+    "price_inr": 3499,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1010/apexrush_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 57,
+    "game_name": "Tokyo Xtreme Racer (PS5 Edition)",
+    "price_inr": 3499,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2310/tokyoxracer_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 58,
+    "game_name": "Exo Rally Championship (PS5 Edition)",
+    "price_inr": 3999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1010/exorally_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 59,
+    "game_name": "Ride 5 Enhanced (PS5 Edition)",
+    "price_inr": 3999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1010/ride5_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 60,
+    "game_name": "Wreckfest 2 (PS5 Edition)",
+    "price_inr": 4499,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202506/1010/wreckfest2_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 61,
+    "game_name": "Resident Evil 9 (PS5 Edition)",
+    "price_inr": 5999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202506/1010/re9_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 62,
+    "game_name": "Resident Evil Code: Veronica Remake (PS5 Edition)",
+    "price_inr": 4999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202505/1010/codeveronica_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 63,
+    "game_name": "Resident Evil Zero Remake (PS5 Edition)",
+    "price_inr": 4999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202505/1510/rezero_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 64,
+    "game_name": "Resident Evil 4 Remake Enhanced (PS5 Edition)",
+    "price_inr": 3999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1010/re4remake_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 65,
+    "game_name": "Resident Evil 2 Remake (PS5 Edition)",
+    "price_inr": 1993,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/201901/1010/re2remake_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 66,
+    "game_name": "Resident Evil 3 Remake (PS5 Edition)",
+    "price_inr": 1993,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202004/1010/re3remake_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 67,
+    "game_name": "Resident Evil 7: Biohazard Enhanced (PS5 Edition)",
+    "price_inr": 2999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/201701/1010/re7_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 68,
+    "game_name": "Resident Evil Village Enhanced (PS5 Edition)",
+    "price_inr": 3499,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202101/1010/village_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 69,
+    "game_name": "Resident Evil Revelations 3 (PS5 Edition)",
+    "price_inr": 3999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202506/1510/revelations3_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 70,
+    "game_name": "Resident Evil Outbreak Remastered (PS5 Edition)",
+    "price_inr": 3499,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202505/1010/outbreak_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 71,
+    "game_name": "Resident Evil: Dead Aim Remastered (PS5 Edition)",
+    "price_inr": 2999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202504/1010/deadaim_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 72,
+    "game_name": "Resident Evil: Survivor Remastered (PS5 Edition)",
+    "price_inr": 2999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202504/1510/survivor_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 73,
+    "game_name": "Resident Evil 5 Remake (PS5 Edition)",
+    "price_inr": 4999,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202506/1010/re5remake_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 74,
+    "game_name": "Resident Evil: The Umbrella Chronicles Remastered (PS5 Edition)",
+    "price_inr": 3499,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202504/1010/umbrellachronicles_ps5_1920x1080.jpg"
+  },
+  {
+    "game_id": 75,
+    "game_name": "Resident Evil: The Darkside Chronicles Remastered (PS5 Edition)",
+    "price_inr": 3499,
+    "image_link": "https://image.api.playstation.com/vulcan/ap/rnd/202504/1010/darksidechronicles_ps5_1920x1080.jpg"
+  }
+]
