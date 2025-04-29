@@ -1,0 +1,182 @@
+[
+  {
+    "game_id": 1,
+    "game_name": "Spider-Man 2 (Xbox One Edition)",
+    "price_inr": 3799,
+    "image_link": "https://i.imgur.com/1YdXzVo.jpg"
+  },
+  {
+    "game_id": 2,
+    "game_name": "Far Cry 6 (Xbox One Edition)",
+    "price_inr": 1599,
+    "image_link": "https://m.media-amazon.com/images/I/81XzL2Z9G7L._SL1500_.jpg"
+  },
+  {
+    "game_id": 3,
+    "game_name": "Astro Bot (Xbox One Edition)",
+    "price_inr": 3499,
+    "image_link": "https://i.imgur.com/3bSYmCw.jpg"
+  },
+  {
+    "game_id": 4,
+    "game_name": "Days Gone Remastered (Xbox One Edition)",
+    "price_inr": 3599,
+    "image_link": "https://i.imgur.com/8CB0TRR.jpg"
+  },
+  {
+    "game_id": 5,
+    "game_name": "Horizon Zero Dawn Remastered (Xbox One Edition)",
+    "price_inr": 3599,
+    "image_link": "https://i.imgur.com/2MFF9Ve.jpg"
+  },
+  {
+    "game_id": 6,
+    "game_name": "Until Dawn (Xbox One Edition)",
+    "price_inr": 3499,
+    "image_link": "https://i.imgur.com/pjTbOz0.jpg"
+  },
+  {
+    "game_id": 7,
+    "game_name": "Marvel’s Spider-Man: Miles Morales (Xbox One Edition)",
+    "price_inr": 3599,
+    "image_link": "https://i.imgur.com/V8VoS1s.jpg"
+  },
+  {
+    "game_id": 8,
+    "game_name": "God of War: Ragnarok (Xbox One Edition)",
+    "price_inr": 4399,
+    "image_link": "https://i.imgur.com/1YdXzVo.jpg"
+  },
+  {
+    "game_id": 9,
+    "game_name": "Hogwarts Legacy (Xbox One Edition)",
+    "price_inr": 4299,
+    "image_link": "https://i.imgur.com/LvPAbzO.jpg"
+  },
+  {
+    "game_id": 10,
+    "game_name": "Assassin's Creed Shadows (Xbox One Edition)",
+    "price_inr": 5399,
+    "image_link": "https://i.imgur.com/qm1IMAw.jpg"
+  },
+  {
+    "game_id": 11,
+    "game_name": "Double Dragon Revive (Xbox One Edition)",
+    "price_inr": 2099,
+    "image_link": "https://i.imgur.com/uwydb5L.jpg"
+  },
+  {
+    "game_id": 12,
+    "game_name": "Sonic X Shadow Generations (Xbox One Edition)",
+    "price_inr": 3099,
+    "image_link": "https://i.imgur.com/X3uF3fA.jpg"
+  },
+  {
+    "game_id": 13,
+    "game_name": "The Last of Us Part II Remastered (Xbox One Edition)",
+    "price_inr": 3699,
+    "image_link": "https://i.imgur.com/1B0wZ7r.jpg"
+  },
+  {
+    "game_id": 14,
+    "game_name": "Dragon's Dogma 2 (Xbox One Edition)",
+    "price_inr": 5599,
+    "image_link": "https://i.imgur.com/Ox9Zk3N.jpg"
+  },
+  {
+    "game_id": 15,
+    "game_name": "Demon's Souls (Xbox One Edition)",
+    "price_inr": 4599,
+    "image_link": "https://i.imgur.com/lWTByGb.jpg"
+  },
+  {
+    "game_id": 16,
+    "game_name": "Ghost of Yōtei (Xbox One Edition)",
+    "price_inr": 5599,
+    "image_link": "https://i.imgur.com/zIumvqT.jpg"
+  },
+  {
+    "game_id": 17,
+    "game_name": "Red Dead Redemption 2 (Xbox One Edition)",
+    "price_inr": 4699,
+    "image_link": "https://i.imgur.com/Sb1gMIr.jpg"
+  },
+  {
+    "game_id": 18,
+    "game_name": "Clair Obscur: Expedition 33 (Xbox One Edition)",
+    "price_inr": 3599,
+    "image_link": "https://i.imgur.com/NToAZxS.jpg"
+  },
+  {
+    "game_id": 19,
+    "game_name": "Fatal Fury: City of the Wolves (Xbox One Edition)",
+    "price_inr": 3099,
+    "image_link": "https://i.imgur.com/5AfZDHf.jpg"
+  },
+  {
+    "game_id": 20,
+    "game_name": "Oblivion Remastered (Xbox One Edition)",
+    "price_inr": 4099,
+    "image_link": "https://i.imgur.com/s73vwV7.jpg"
+  },
+  {
+    "game_id": 21,
+    "game_name": "Doom: The Dark Ages (Xbox One Edition)",
+    "price_inr": 4699,
+    "image_link": "https://i.imgur.com/Y8FyqzR.jpg"
+  },
+  {
+    "game_id": 22,
+    "game_name": "Elden Ring: Nightreign (Xbox One Edition)",
+    "price_inr": 5699,
+    "image_link": "https://i.imgur.com/ikTfTkJ.jpg"
+  },
+  {
+    "game_id": 23,
+    "game_name": "Death Stranding 2: On the Beach (Xbox One Edition)",
+    "price_inr": 5699,
+    "image_link": "https://i.imgur.com/Xn5XxRC.jpg"
+  },
+  {
+    "game_id": 24,
+    "game_name": "Five Nights at Freddy's: Secret of the Mimic (Xbox One Edition)",
+    "price_inr": 2799,
+    "image_link": "https://i.imgur.com/R91gtRg.jpg"
+  },
+  {
+    "game_id": 25,
+    "game_name": "The Midnight Walk (Xbox One Edition)",
+    "price_inr": 3199,
+    "image_link": "https://i.imgur.com/hZfGIEv.jpg"
+  },
+  {
+    "game_id": 26,
+    "game_name": "Kingdom Come: Deliverance 2 (Xbox One Edition)",
+    "price_inr": 4699,
+    "image_link": "https://i.imgur.com/g8B2tcv.jpg"
+  },
+  {
+    "game_id": 27,
+    "game_name": "Forza Horizon 5 (Xbox One Edition)",
+    "price_inr": 3699,
+    "image_link": "https://i.imgur.com/LHk4UOi.jpg"
+  },
+  {
+    "game_id": 28,
+    "game_name": "Call of Duty: Black Ops 6 (Xbox One Edition)",
+    "price_inr": 4999,
+    "image_link": "https://i.imgur.com/dcuWyZn.jpg"
+  },
+  {
+    "game_id": 29,
+    "game_name": "Metal Gear Solid Delta: Snake Eater (Xbox One Edition)",
+    "price_inr": 5699,
+    "image_link": "https://i.imgur.com/dEM9ZPB.jpg"
+  },
+  {
+    "game_id": 30,
+    "game_name": "The Outer Worlds 2 (Xbox One Edition)",
+    "price_inr": 4699,
+    "image_link": "https://i.imgur.com/KT8SeCD.jpg"
+  }
+]
