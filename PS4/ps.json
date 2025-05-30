@@ -1,89 +1,90 @@
 [
   {
+    "Type" : "PS4",
     "game_id": 1,
     "game_name": "Spider-Man 2 (PS4 Edition)",
     "price_inr": 3699,
     "image_link": "https://a.media-amazon.com/images/I/71rInOWdBAL._SX679_.jpg"
   },
-  {
+  { "Type" : "PS4", 
     "game_id": 2,
     "game_name": "Far Cry 6 (PS4 Edition)",
     "price_inr": 1499,
     "image_link": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQjfJ78V_mAH94FoNVMQ7Uee2QdkAjHH8sf_3xLA9hLSRwyjftyk_UJiJqDF7Fm7khJGdY9g_2PWADCNtOC1USgVrpzU5wV1riM7YijH8yJz1SX2yfCivhB"
   },
-  {
+  { "Type" : "PS4",
     "game_id": 3,
     "game_name": "Astro Bot (PS4 Edition)",
     "price_inr": 3399,
     "image_link": "https://a.media-amazon.com/images/I/716b4iZK6TL._SX679_.jpg"
   },
-  {
+  { "Type" : "PS4",
     "game_id": 4,
     "game_name": "Days Gone Remastered (PS4 Edition)",
     "price_inr": 3399,
     "image_link": "https://a.media-amazon.com/images/I/91JAyQ8RLCL._SX522_.jpg"
   },
-  {
+  { "Type" : "PS4",
     "game_id": 5,
     "game_name": "Horizon Zero Dawn Remastered (PS4 Edition)",
     "price_inr": 3399,
     "image_link": "https://a.media-amazon.com/images/I/819-3Ev22jL._SX522_.jpg"
   },
-  {
+  { "Type" : "PS4",
     "game_id": 6,
     "game_name": "Until Dawn (PS4 Edition)",
     "price_inr": 3399,
     "image_link": "https://a.media-amazon.com/images/I/81c7WFBfNyL._SX522_.jpg"
   },
-  {
+  { "Type" : "PS4",
     "game_id": 7,
     "game_name": "Marvel’s Spider-Man: Miles Morales (PS4 Edition)",
     "price_inr": 3399,
     "image_link": "https://a.media-amazon.com/images/I/811umGHYORL._SX569_.jpg"
   },
-  {
+  { "Type" : "PS4",
     "game_id": 8,
     "game_name": "God of War: Ragnarok (PS4 Edition)",
     "price_inr": 4299,
     "image_link": "https://a.media-amazon.com/images/I/81LtrvOKYbL._SY879_.jpg"
   },
-  {
+  { "Type" : "PS4",
     "game_id": 9,
     "game_name": "Hogwarts Legacy (PS4 Edition)",
     "price_inr": 4199,
     "image_link": "https://a.media-amazon.com/images/I/81z6AqCm5nL._SX522_.jpg"
   },
-  {
+  { "Type" : "PS4",
     "game_id": 10,
     "game_name": "Assassin's Creed Shadows (PS4 Edition)",
     "price_inr": 5299,
     "image_link": "https://a.media-amazon.com/images/I/81U2bxexU0L._SX569_.jpg"
   },
-  {
+  { "Type" : "PS4",
     "game_id": 11,
     "game_name": "Double Dragon Revive (PS4 Edition)",
     "price_inr": 1999,
     "image_link": "https://s.pacn.ws/1/p/198/double-dragon-revive-814271.11.jpg?v=sgiek6&width=800&crop=1280,1563"
   },
-  {
+  { "Type" : "PS4",
     "game_id": 12,
     "game_name": "Sonic X Shadow Generations (PS4 Edition)",
     "price_inr": 2999,
     "image_link": "https://dmdworld.store/wp-content/uploads/2024/11/ps4-sonic-shadow.png"
   },
-  {
+  { "Type" : "PS4",
     "game_id": 13,
     "game_name": "The Last of Us Part II Remastered (PS4 Edition)",
     "price_inr": 3599,
     "image_link": "https://a.media-amazon.com/images/I/61KXzwaghhL._SX679_.jpg"
   },
-  {
+  { "Type" : "PS4",
     "game_id": 14,
     "game_name": "Dragon's Dogma 2 (PS4 Edition)",
     "price_inr": 5499,
     "image_link": "https://a.media-amazon.com/images/I/81kbquO0o-L._SX679_.jpg"
   },
-  {
+  { "Type" : "PS4",
     "game_id": 15,
     "game_name": "Bloodborne - Game of the Year (PS4 Edition)",
     "price_inr": 4499,
@@ -95,85 +96,85 @@
     "price_inr": 5499,
     "image_link": "https://a.media-amazon.com/images/I/61vCrYISMOL._SX679_.jpg"
   },
-  {
+  { "Type" : "PS4",
     "game_id": 17,
     "game_name": "Red Dead Redemption 2 (PS4 Edition)",
     "price_inr": 4599,
     "image_link": "https://rukminim2.flixcart.com/image/832/832/xif0q/physical-game/z/u/4/-original-imahfdkhykyv9eje.jpeg?q=70&crop=false"
   },
-  {
+  { "Type" : "PS4",
     "game_id": 18,
     "game_name": "Mafia 3 (PS4 Edition)",
     "price_inr": 3499,
     "image_link": "https://a.media-amazon.com/images/I/81rvq5IfZiL._SX679_.jpg"
   },
-  {
+  { "Type" : "PS4",
     "game_id": 19,
     "game_name": "Fatal Fury: City of the Wolves (PS4 Edition)",
     "price_inr": 2999,
     "image_link": "https://m.media-amazon.com/images/I/9131l3+42kL._AC_SX679_.jpg"
   },
-  {
+  { "Type" : "PS4",
     "game_id": 20,
     "game_name": "GTA 5 (PS4 Edition)", 
     "price_inr": 3999,
     "image_link": "https://m.media-amazon.com/images/I/81htlTqEckL._SX522_.jpg"
   },
-  {
+  { "Type" : "PS4",
     "game_id": 21,
     "game_name": "Doom: The Dark Ages (PS4 Edition)",
     "price_inr": 4599,
     "image_link": "https://a.media-amazon.com/images/I/91IoZT4nczL._SX679_.jpg"
   },
-  {
+  { "Type" : "PS4",
     "game_id": 22,
     "game_name": "Elden Ring: Nightreign (PS4 Edition)",
     "price_inr": 5599,
     "image_link": "https://cdn.hmv.com/r/w-1280/p-webp/hmv/files/b5/b5be37d0-a98c-48ae-aa0e-1cb8d6cef628.png"
   },
-  {
+  { "Type" : "PS4",
     "game_id": 23,
     "game_name": "FIFA 23 (PS4 Edition)",
     "price_inr": 5599,
     "image_link": "https://a.media-amazon.com/images/I/71RmYwT5JOL._SX679_.jpg"
   },
-  {
+  { "Type" : "PS4",
     "game_id": 24,
     "game_name": "Five Nights at Freddy's: Secret of the Mimic (PS4 Edition)",
     "price_inr": 2699,
     "image_link": "https://i.imgur.com/R91gtRg.jpg"
   },
-  {
+  { "Type" : "PS4",
     "game_id": 25,
     "game_name": "Hitman 3 (PS4 Edition)",
     "price_inr": 3099,
     "image_link": "https://a.media-amazon.com/images/I/61ppuR4BooL._SX522_.jpg"
   },
-  {
+  { "Type" : "PS4",
     "game_id": 26,
     "game_name": "Kingdom Come: Deliverance  (PS4 Edition)",
     "price_inr": 4599,
     "image_link": "https://a.media-amazon.com/images/I/91j1wKFr+bL._SX522_.jpg"
   },
-  {
+  { "Type" : "PS4",
     "game_id": 27,
     "game_name": "Resident Evil 3 (PS4 Edition)",
     "price_inr": 3599,
     "image_link": "https://a.media-amazon.com/images/I/81zPtVj06kL._SX679_.jpg"
   },
-  {
+  { "Type" : "PS4",
     "game_id": 28,
     "game_name": "Call of Duty: Black Ops 6 (PS4 Edition)",
     "price_inr": 4899,
     "image_link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ6GCYz53QwiDoEUlj2MocvsK-RdvzlMGno-7E8DElsG9pjQt-LeDUZ5pL4m8JaH-PxQ_G76gR15VDbbK01t1u5hOKNKymq17qazRlJkFboYHEAh9zK-gBHQw"
   },
-  {
+  { "Type" : "PS4",
     "game_id": 29,
     "game_name": "Ghost Recon Wildlands (PS4 Edition)",
     "price_inr": 5599,
     "image_link": "https://a.media-amazon.com/images/I/91FhqicEyLL._SX679_.jpg"
   },
-  {
+  { "Type" : "PS4",
     "game_id": 30,
     "game_name": "Watch Dogs Legion (PS4 Edition)",
     "price_inr": 4599,
